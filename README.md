@@ -105,3 +105,9 @@ The repository contains the following main files and directories:
 
 3. **Billing:**
    - Generate bills based on the duration of patient admission and other criteria.
+![image (1)](https://github.com/user-attachments/assets/df7b0340-e919-43e6-96f3-05470d1e44bd)
+
+![image (2)](https://github.com/user-attachments/assets/9cfb32a1-0626-4c87-91d9-cb1e395eea94)
+![image (4)](https://github.com/user-attachments/assets/20da85c6-a67c-4361-af72-71de25092f0c)
+![image (3)](https://github.com/user-attachments/assets/ff3305ef-f862-4ac9-859f-622e7548edd1)
+
